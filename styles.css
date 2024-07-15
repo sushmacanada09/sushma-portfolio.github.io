@@ -435,6 +435,11 @@ section {
   flex-wrap: wrap;
   
 }
+#welcome-section .skillset p {
+  color: #E64A19;
+  font-size: 15px;
+  margin: 45px 0;
+}
 
 .skill-container {
   padding: 10px;
